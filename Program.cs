@@ -6,5 +6,9 @@
 */
 Console.WriteLine("Введите число");
 int numberA = Convert.ToInt32(Console.ReadLine());
-if (numberA % 2 = 0)
+if (numberA %2 == 0)
+{
 Console.Write("Четное");
+}
+else 
+Console.Write("не четное");

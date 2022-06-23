@@ -3,3 +3,13 @@ C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\homework_le
 C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\homework_lesson1\task6\obj\Debug\net6.0\task6.AssemblyInfoInputs.cache
 C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\homework_lesson1\task6\obj\Debug\net6.0\task6.AssemblyInfo.cs
 C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\homework_lesson1\task6\obj\Debug\net6.0\task6.csproj.CoreCompileInputs.cache
+C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\homework_lesson1\task6\bin\Debug\net6.0\task6.exe
+C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\homework_lesson1\task6\bin\Debug\net6.0\task6.deps.json
+C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\homework_lesson1\task6\bin\Debug\net6.0\task6.runtimeconfig.json
+C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\homework_lesson1\task6\bin\Debug\net6.0\task6.dll
+C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\homework_lesson1\task6\bin\Debug\net6.0\task6.pdb
+C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\homework_lesson1\task6\obj\Debug\net6.0\task6.dll
+C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\homework_lesson1\task6\obj\Debug\net6.0\refint\task6.dll
+C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\homework_lesson1\task6\obj\Debug\net6.0\task6.pdb
+C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\homework_lesson1\task6\obj\Debug\net6.0\task6.genruntimeconfig.cache
+C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\homework_lesson1\task6\obj\Debug\net6.0\ref\task6.dll
